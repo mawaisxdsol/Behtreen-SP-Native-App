@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/menu_nav_active_jobs"
+            android:icon="@drawable/ic_active_jobs"
+            android:title="@string/menu_active_jobs" />
+        <item
+            android:id="@+id/menu_nav_my_profile"
+            android:icon="@drawable/ic_menu_my_profile"
+            android:title="@string/menu_my_profile" />
+        <item
+            android:id="@+id/menu_nav_jobs_history"
+            android:icon="@drawable/ic_menu_jobs_history"
+            android:title="@string/menu_jobs_history" />
+        <item
+            android:id="@+id/menu_nav_notifications"
+            android:icon="@drawable/ic_notifications"
+            android:title="@string/menu_notifications" />
+        <item
+            android:id="@+id/menu_nav_payments"
+            android:icon="@drawable/ic_menu_payment"
+            android:title="@string/menu_payments" />
+
+        <item
+            android:id="@+id/menu_nav_help"
+            android:icon="@drawable/ic_menu_help"
+            android:title="@string/menu_help" />
+        <item
+            android:id="@+id/menu_nav_legal"
+            android:icon="@drawable/ic_menu_info"
+            android:title="@string/menu_legal" />
+        <item
+            android:id="@+id/menu_nav_logout"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="@string/menu_logout" />
+    </group>
+
+</menu>

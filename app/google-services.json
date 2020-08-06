@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176721167567",
+    "firebase_url": "https://behtreen-sp-app.firebaseio.com",
+    "project_id": "behtreen-sp-app",
+    "storage_bucket": "behtreen-sp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176721167567:android:3a50c5bf2dfe7945",
+        "android_client_info": {
+          "package_name": "com.behtreen.spapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176721167567-m9idomaas9cgbi0k5rhr96d4sgmkd05t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.behtreen.spapp",
+            "certificate_hash": "1c2d1e60d17708cb0759bfe6c07482ad3fcdbbd9"
+          }
+        },
+        {
+          "client_id": "176721167567-dgntoitmag2o7bjghi98i9116qjhjt11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTA15g4Ix9SRMDv0We9q5_t_WoE3v9u54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176721167567-dgntoitmag2o7bjghi98i9116qjhjt11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
